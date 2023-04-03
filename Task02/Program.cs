@@ -14,4 +14,4 @@ else
     max = secondNumber;
     min = firstNumber;
 }
-Console.WriteLine($"max = {secondNumber} min = {firstNumber}");
+Console.WriteLine($"max = {max} min = {min}");
